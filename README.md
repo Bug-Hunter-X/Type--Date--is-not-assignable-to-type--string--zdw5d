@@ -1,0 +1,1 @@
+This repository contains a TypeScript bug and its solution. The bug is a type error that occurs when trying to pass a Date object as a parameter to a function that expects a string. The solution involves changing the function's parameter type to Date.
